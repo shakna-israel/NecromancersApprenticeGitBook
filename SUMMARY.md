@@ -1,9 +1,6 @@
 # Table of Contents
 
 * [Home](README.md)
-* [License](LICENSE.md)
-* [Contributing](CONTRIBUTING.md)
-
 * [Prologue](000-Chapter-Zero.md)
 * [Chapter One](001-Chapter-One.md)
 * [Chapter Two](002-Chapter-Two.md)
