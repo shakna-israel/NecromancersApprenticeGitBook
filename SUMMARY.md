@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Home](index.md)
+* [Home](README.md)
 * [License](LICENSE.md)
 * [Contributing](CONTRIBUTING.md)
 
