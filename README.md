@@ -5,6 +5,16 @@ It was destroyed by ice.
 
 It was rebuilt by blood.
 
+## Distribution
+
+[ePub](https://www.gitbook.com/download/epub/book/shakna-israel/necromancer-s-apprentice), for most eReaders.
+
+[Mobi](https://www.gitbook.com/download/mobi/book/shakna-israel/necromancer-s-apprentice), for Kindle.
+
+[PDF](https://www.gitbook.com/download/pdf/book/shakna-israel/necromancer-s-apprentice), for just about anything else.
+
+Necromancer's Apprentice is also on [Kobo](https://store.kobobooks.com/en-US/ebook/necromancer-s-apprentice-1).
+
 ## Copyleft
 
 Released under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
